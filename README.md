@@ -12,3 +12,7 @@ HISTORIA ZMIAN:
 
   Pierwsza wersja programu. Zapewnienie podstawowego działania.
 
+
+- Wersja 1.01 (30 wrzesień 2024)
+
+  Program działa w pętli.
