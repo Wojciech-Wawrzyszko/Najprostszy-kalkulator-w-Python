@@ -1,0 +1,2 @@
+W wersji 1.1 przeszedłem do frameworka Django. Ze względu na używanie funkcji eval(), trzeba zabezpieczyć aplikację
+przed niepowołanym wykonaniem dowolnego kodu Pythona.

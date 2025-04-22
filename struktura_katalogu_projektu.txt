@@ -1,0 +1,22 @@
+Najprostszy-kalkulator-w-Python/
+├── .gitignore
+├── Najprostszy_Kalkulator.py
+├── README.md
+├── manage.py                  # Skrypt zarządzania Django
+├── kalkulator_projekt/        # Główny projekt Django
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+└── kalkulator_app/            # Aplikacja kalkulatora
+    ├── __init__.py
+    ├── admin.py
+    ├── apps.py
+    ├── migrations/
+    ├── models.py
+    ├── views.py
+    ├── urls.py                # URL dla kalkulatora
+    └── templates/
+        └── kalkulator_app/
+            └── index.html     # Szablon interfejsu

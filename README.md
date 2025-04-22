@@ -16,3 +16,9 @@ HISTORIA ZMIAN:
 - Wersja 1.01 (30 wrzesień 2024)
 
   Program działa w pętli.
+
+
+- Wersja 1.10 (22 kwiecień 2025)
+
+  Program został przeniesiony do frameworka Django i jest już aplikcją webową (działa w przeglądarce internetowej).
+  Prosta szata graficzna.
